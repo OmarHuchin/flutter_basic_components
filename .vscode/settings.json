@@ -1,0 +1,7 @@
+{
+    "debug.internalConsoleOptions": "openOnSessionStart",
+    "debug.showInStatusBar": "always",
+    "debug.showSubSessionsInToolBar": true,
+    "dart.debugSdkLibraries": true,
+    "dart.debugExternalLibraries": true
+}
